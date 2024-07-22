@@ -1,0 +1,32 @@
+.navbar-1{
+    position:absolute;
+
+}
+.home{
+    margin-top: 140px;
+    background-color: lightgoldenrodyellow;
+    height: 400px;
+}
+
+.col-md-6{
+    margin-top: 700px;
+}
+#btn{
+ margin-right:100px;
+ margin-left: 80px;
+ font-size: 20px;
+ background-color: black;
+    color: white;
+}
+.btn1{
+    margin-left: 450px;
+}
+.img-1:hover{
+    margin-top: 20px;
+}
+.img2:hover{
+    margin-top: 20px;
+}
+.img3:hover{
+    margin-top: 20px;
+}
